@@ -92,7 +92,7 @@ Geospatial / Environmental Information
 
 ## Author
 
-Laxmimeenal T
+Laxmimeenal Thirunavukkarasu
 
 B.Tech Artificial Intelligence and Data Science
 
